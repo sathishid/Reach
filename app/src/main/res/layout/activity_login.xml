@@ -153,7 +153,9 @@
                 android:shadowColor="@color/light_blue"
                 android:text="No account yet? Create one"
                 android:textColor="@color/blue"
-                android:textSize="16dp" />
+                android:textSize="16dp"
+                android:onClick="link_signup_onClick"
+                />
 
 
         </LinearLayout>
